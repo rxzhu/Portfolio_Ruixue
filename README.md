@@ -40,7 +40,7 @@ A quick showcase of my technical depth and business impact.
 
 | Project Name | Skills Used | Description |
 | :--- | :--- | :--- |
-| **[Link to Project 1: e.g., Churn Prediction Model]** | Python, Scikit-learn, SQL, Tableau | Developed a Logistic Regression model to predict customer churn, achieving **[X%]** accuracy. Data processed using SQL and visualized in Tableau. |
+| **[Link to Project 1: e.g., Churn Prediction Model]** | Python, Scikit-learn, SQL, Tableau | Developed a Logistic Regression model to predict customer churn, achieving **[86.7%]** accuracy. Data processed using SQL and visualized in Tableau. |
 | **[Link to Project 2: e.g., BigQuery ETL Pipeline]** | Google BigQuery, dbt, Python | Built a robust ETL pipeline on GCP, transforming raw e-commerce data into a clean, dimensional model using dbt. |
 | **[Link to Project 3: e.g., Image Classification]** | Python, TensorFlow/PyTorch, Computer Vision | Trained a deep learning model to classify [X] images, demonstrating proficiency in convolutional neural networks (CNNs). |
 
@@ -50,7 +50,6 @@ A quick showcase of my technical depth and business impact.
 
 I am always interested in discussing new opportunities, collaborating on innovative projects, or just chatting about the latest developments in AI.
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** [Your Email Address]
-* **Portfolio/Blog:** [Your Personal Website URL, if applicable]
+* **LinkedIn:** (https://www.linkedin.com/in/ruixue-zhu/)
+* **Email:** ruixue.weber@gmail.com
 
